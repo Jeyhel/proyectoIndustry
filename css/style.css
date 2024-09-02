@@ -29,13 +29,15 @@ body{
     font-size: 40px;
     font-family: 'Inter';
     margin-top: 1%;
+   
+
 }
 .head{
     padding-left: 55%;
     display: flex;
     gap: 10px; 
     font-family: 'Inter'; 
-    color: #f7f5f3;
+
     
 }
 .head p{
