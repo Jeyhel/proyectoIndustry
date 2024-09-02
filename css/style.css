@@ -175,6 +175,7 @@ font-size: 35px;
     text-align: center;
     margin-left: -100%;
     font-family: 'Poppins';
+
    
 }   
 .menu h3{
@@ -182,17 +183,20 @@ font-size: 35px;
     color: var(--color-5);
     margin-top: -180px;
     font-size: 65px;
-    margin-bottom: -40px;
+
+
 }
 .menu p{
     color: var(--color-1);
-    font-size: 90px;
+    font-size: 80px;
+    margin-bottom: -20px;
 }
 .menu{
     color: var(--color-2);
     font-size: 20px;
     text-align: center;
     margin-left: 80px;
+    margin-bottom: 10px;
 
 }
 .taste{
@@ -203,7 +207,7 @@ font-size: 35px;
 
 .taste h3 {
     color: var(--color-2);
-    padding-bottom: 5%;
+    padding-bottom: -10%;
     font-size: 35px;
     text-align: center;
     
@@ -216,8 +220,7 @@ font-size: 35px;
     display: flex;
     font-family: 'Poppins';
     text-align: center;
-  
-   
+
 }
 
 #imagen{
@@ -311,4 +314,74 @@ font-size: 35px;
     margin-top: -100px;
     font-size: 65px;
    
+}.page6{
+
+    padding-top: 350px;
+    margin-left: -130%;
+    display: flex;
+    font-family: 'Poppins';
+    text-align: center;
+    
+
+}
+.text_22 h3{
+   
+        color: var(--color-5);
+        font-size: 60px; 
+        margin-top: -220px; 
+
+}
+.text_22 h2{
+   
+    color: var(--color-5);
+    font-size: 60px; 
+    margin-top: -20px; 
+
+}
+.text_22 p{
+   
+    color: var(--color-1);
+    font-size: 30px; 
+    margin-top: -20px; 
+
+}
+.text_23 h3{
+    font-size: 85px;
+    color: var(--color-1);
+    font-family: 'Poppins';
+    margin-top:90px; 
+}
+.text_23 p{
+    font-size: 25px;
+    color: var(--color-1);
+    font-family: 'Poppins';
+    margin-top: -50px;
+}
+
+
+.text_34 h2{
+    color: var(--color-5);
+    font-size: 60px; 
+  
+}
+.text_34 p{
+    color: var(--color-1);
+    font-size: 30px;
+  
+}
+
+
+.page7{
+    color: var(--color-5);
+    font-size: 60px;
+    text-align: center;
+    margin-left: 80px;
+    margin-top: -190px;
+
+
+}.text_28 h3{
+    font-size: 55px;
+    color: var(--color-1);
+    font-family: 'Poppins';
+    margin-top:90px; 
 }
